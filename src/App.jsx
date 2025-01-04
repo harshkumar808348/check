@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-   <div className='bg-blue-300'>Hello</div>
+   <div className='bg-blue-300'>my name is harsh kumar i am in vit univertsity</div>
+
     </>
   )
 }
