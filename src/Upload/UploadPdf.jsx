@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import * as React from 'react';
 import crypto from 'crypto-js';
 import * as pdfjsLib from 'pdfjs-dist/build/pdf';
 import 'pdfjs-dist/build/pdf.worker.entry';
