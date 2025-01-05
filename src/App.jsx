@@ -1,5 +1,6 @@
 import { useState } from 'react'
 
+import PDFUploader from './Upload/UploadPdf'
 
 
 function App() {
@@ -7,8 +8,8 @@ function App() {
 
   return (
     <>
-   <div className='bg-blue-300'>my name is harsh kumar i am in vit univertsity</div>
-
+    <h1 className='text-3xl font-bold'>Upload PDF</h1>
+  <PDFUploader />
     </>
   )
 }
